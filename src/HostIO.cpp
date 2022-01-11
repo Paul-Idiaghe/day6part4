@@ -1,6 +1,6 @@
 #include "HostIO.h"
 
-void Hostnit(void)
+void HostInit(void)
 {
     print("\r\nType two digit numbers to be displayed\r\n");
 }
