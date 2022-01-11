@@ -2,7 +2,7 @@
 
 void HostInit(void)
 {
-    print("\r\nType two digit numbers to be displayed\r\n");
+    printf("\r\nType two digit numbers to be displayed\r\n");
 }
 
 char GetKeyInput(void)
